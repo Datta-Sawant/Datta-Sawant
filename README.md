@@ -1,7 +1,8 @@
-- Hi 👋, I’m **Datta Sawant** 
-<hr>
-<!-- <img src=https://raw.githubusercontent.com/ksdiwe/ksdiwe/main/wave.gif> -->
+<!-- <h1 align="center">Hi 👋, I’m Datta Sawant </h1> -->
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=Hi%20👋,%20I’m%20Datta%20Sawant&desc=Data%20Science%20Enthusiast&fontSize=50&animation=blinking&fontAlignY=20&descAlignY=45&descAlign=45&stroke=00FF00&strokeWidth=1&color=random&theme=default)
 
+
+<!-- <img src=https://raw.githubusercontent.com/ksdiwe/ksdiwe/main/wave.gif> -->
 
 <!-- <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
@@ -28,7 +29,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/>
-                                                                                              
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="80" height="80"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="60" height="60"  />
+                                  
 </p>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
@@ -36,3 +42,4 @@
 Datta-Sawant/Datta-Sawant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![footer](https://capsule-render.vercel.app/api?section=footer)
