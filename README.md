@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on **creating diffrent unique projects applying my knowledge to full potential and learning from experiences.**
 - 📫 How to reach me sawantdj93@gmail.com
 <hr>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Languages and Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/> 
