@@ -1,6 +1,10 @@
 <!-- <h1 align="center">Hi 👋, I’m Datta Sawant </h1> -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=Hi%20👋,%20I’m%20Datta%20Sawant&desc=Data%20Science%20Enthusiast&fontSize=50&animation=blinking&fontAlignY=20&descAlignY=45&descAlign=45&stroke=00FF00&strokeWidth=1&color=random&theme=default)
+<!--
+![1](https://user-images.githubusercontent.com/48941870/210128948-9ccf4cc8-26c3-42e3-b33a-ecfd72306e10.jpg)
 
+https://user-images.githubusercontent.com/48941870/210128954-1d1546f0-8618-4e2b-af4e-db6a7cdde984.mp4
+ -->
 
 <!-- <img src=https://raw.githubusercontent.com/ksdiwe/ksdiwe/main/wave.gif> -->
 
