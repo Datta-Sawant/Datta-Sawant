@@ -1,9 +1,16 @@
 <!-- <h1 align="center">Hi 👋, I’m Datta Sawant </h1> -->
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=Hi%20👋,%20I’m%20Datta%20Sawant&desc=Data%20Science%20Enthusiast&fontSize=50&animation=blinking&fontAlignY=20&descAlignY=45&descAlign=45&stroke=00FF00&strokeWidth=1&color=random&theme=default)
-<!--
-![1](https://user-images.githubusercontent.com/48941870/210128948-9ccf4cc8-26c3-42e3-b33a-ecfd72306e10.jpg)
 
-https://user-images.githubusercontent.com/48941870/210128954-1d1546f0-8618-4e2b-af4e-db6a7cdde984.mp4
+<!--
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=Hi%20👋,%20I’m%20Datta%20Sawant&desc=Data%20Science%20Enthusiast&fontSize=50&animation=blinking&fontAlignY=20&descAlignY=45&descAlign=45&stroke=00FF00&strokeWidth=1&color=random&theme=default) -->
+
+<img src="https://user-images.githubusercontent.com/48941870/210128948-9ccf4cc8-26c3-42e3-b33a-ecfd72306e10.jpg" width="100%" height="100%">
+
+<!--
+<h1 align="center"> <video src="https://user-images.githubusercontent.com/48941870/210181594-4d7c2c13-56a2-45bd-b533-298662d7dcb2.mp4" width="100%" height="100%"> </video> </h1>  -->
+
+
+<!-- ![1](https://user-images.githubusercontent.com/48941870/210128948-9ccf4cc8-26c3-42e3-b33a-ecfd72306e10.jpg| width=100)
+<img src="https://user-images.githubusercontent.com/48941870/210128948-9ccf4cc8-26c3-42e3-b33a-ecfd72306e10.jpg" width="100%" height="100%">
  -->
 
 <!-- <img src=https://raw.githubusercontent.com/ksdiwe/ksdiwe/main/wave.gif> -->
@@ -12,6 +19,10 @@ https://user-images.githubusercontent.com/48941870/210128954-1d1546f0-8618-4e2b-
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
    -->
+   
+   
+   
+   
 - 👀 I’m interested in **Data Science, Machine Learning**
 - 🌱 I’m currently learning **Python, SQL, Machine Learning, Deep Learning, AWS, NLP**
 - 💞️ I’m looking to collaborate on **creating diffrent unique projects applying my knowledge to full potential and learning from experiences.**
