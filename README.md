@@ -23,7 +23,7 @@
    
    
    
-- 👀 I’m interested in **Data Science, Machine Learning**
+- 👀 I’m interested in **Data Science, Machine Learning, Computer Vision (OpenCV)**
 - 🌱 I’m currently learning **Python, SQL, Machine Learning, Deep Learning, AWS, NLP**
 - 💞️ I’m looking to collaborate on **creating diffrent unique projects applying my knowledge to full potential and learning from experiences.**
 - 📫 How to reach me sawantdj93@gmail.com
