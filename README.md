@@ -3,7 +3,7 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=Hi%20👋,%20I’m%20Datta%20Sawant&desc=Data%20Science%20Enthusiast&fontSize=50&animation=blinking&fontAlignY=20&descAlignY=45&descAlign=45&stroke=00FF00&strokeWidth=1&color=random&theme=default) -->
 
-<img src="https://user-images.githubusercontent.com/48941870/210128948-9ccf4cc8-26c3-42e3-b33a-ecfd72306e10.jpg" width="100%" height="100%">
+<img src="https://user-images.githubusercontent.com/48941870/230010596-8b423e4f-b54d-4917-aa87-bc33185ab20a.jpg" width="100%" height="100%">
 
 <!--
 <h1 align="center"> <video src="https://user-images.githubusercontent.com/48941870/210181594-4d7c2c13-56a2-45bd-b533-298662d7dcb2.mp4" width="100%" height="100%"> </video> </h1>  -->
